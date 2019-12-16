@@ -11,7 +11,7 @@ data:
 
   calico_backend: vxlan
 
-  calico_pool: 172.17.0.0/16
+  calico_pool: 172.19.0.1/16
 
   cni_network_config: |-
       {
